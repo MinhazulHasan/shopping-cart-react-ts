@@ -1,26 +1,44 @@
 [
     {
       "id": 1,
-      "name": "Book",
+      "name": "Sherlock Homes",
       "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "imgUrl": "/imgs/sherlock.jpg"
     },
     {
       "id": 2,
-      "name": "Computer",
-      "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "name": "Gavi Brittanto",
+      "price": 12.23,
+      "imgUrl": "/imgs/gaviBrittanto.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "The Alchemist",
+      "price": 11.05,
+      "imgUrl": "/imgs/alchemist.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "name": "Himu",
+      "price": 9.75,
+      "imgUrl": "/imgs/himu.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Quantam Mechanics",
+      "price": 21.05,
+      "imgUrl": "/imgs/quantam.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Misir Ali",
+      "price": 10.45,
+      "imgUrl": "/imgs/misirAli.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Harry Potter",
+      "price": 13.17,
+      "imgUrl": "/imgs/harryPotter.jpg"
     }
 ]
